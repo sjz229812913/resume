@@ -12,7 +12,31 @@
         "phone": "17720176752",
         "email": "229812913@qq.com"
     },
-    "social":[  "icon": ""
+    "social":[  
+		{
+            "type": "github",
+            "link": "https://github.com/Jayin",
+            "icon": ""
+        },
+        {
+            "type": "weibo",
+            "link": "http://weibo.com",
+            "icon": ""
+        },
+        {
+            "type": "linkedin",
+            "link": "https://www.linkedin.com",
+            "icon": ""
+        },
+        {
+            "type": "twitter",
+            "link": "https://twitter.com",
+            "icon": ""
+        },
+        {
+            "type": "home",
+            "link": "https://github.com/Jayin",
+            "icon": ""
         }
     ],
     "Awards": [
